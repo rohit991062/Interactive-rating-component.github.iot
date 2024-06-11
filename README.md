@@ -1,0 +1,1 @@
+# Interactive-rating-component.github.iot
